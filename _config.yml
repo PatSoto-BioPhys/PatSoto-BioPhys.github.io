@@ -83,11 +83,11 @@ author:
   name             : "Patricia Soto, PhD"
   avatar           : "CCAS_Soto_Patricia.jpg"
   bio              : "Protein computational biophysicist @BiophysicalSoc, #ResearchWithUndergrads @MERCURY_NSF, and #EducationResearch @BiophysicistJ @AAPTHQ"
-  location         : Omaha, NE, USA
-  employer         : Creighton University - Physics department
+  location         : "https://physics.creighton.edu/"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=patricia+soto"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=uQRaA0EAAAAJ&view_op=list_works&citft=2&email_for_op=patricia.soto.b%40gmail.com&authuser=1&sortby=title"
-  email            :
+  email            : "patriciasoto@creighton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
