@@ -209,6 +209,33 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _biophysics
+  - scope:
+      path: ""
+      type: biophysics
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _group
+  - scope:
+      path: ""
+      type: group
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _dber
+  - scope:
+      path: ""
+      type: dber
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
@@ -236,14 +263,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
@@ -255,7 +275,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
