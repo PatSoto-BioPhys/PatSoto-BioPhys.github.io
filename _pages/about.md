@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I strive to nurture inclusive communities of undergraduate researchers that use structural bioinformatics techniques to study protein conformational dynamics and folding in order to elucidate molecular mechanisms hallmark of neurodegenerative diseases. I use outcomes from the sciences of learning to design, implement, and assess educational experiences for undergraduates in order to advance our understanding of how students learn at the intersection of physical and life sciences. I engage in communities of educators to co-create enriched educational experiences for students. 
+My academic mission is to cultivate inclusive communities of undergraduate researchers focused on using structural bioinformatics techniques to investigate protein conformational dynamics and folding to unravel molecular mechanisms underlying neurodegenerative diseases. By integrating insights from the sciences of learning, I design, implement, and evaluate educational experiences that advance our understanding of how students effectively learn at the convergence of physical and life sciences. I actively participate in communities of educators, collaborating to co-create enriched educational opportunities for students. Together, we strive to foster a transformative academic environment that empowers students and contributes to scientific knowledge and discovery. 
 
 Education
 ======
