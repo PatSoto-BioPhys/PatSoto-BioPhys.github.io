@@ -8,7 +8,7 @@ date: several times # 2014-01-01
 location: "Omaha, NE, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course focuses on learning how to use statistical mechanics and fluid dynamics to explain the behavior of molecules and cells in the nanoscale.
 
 Heading 1
 ======
