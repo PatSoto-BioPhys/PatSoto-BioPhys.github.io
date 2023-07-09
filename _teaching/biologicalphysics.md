@@ -1,5 +1,5 @@
 ---
-title: "Introdcution to biological physics"
+title: "Introduction to biological physics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/biologicalphysics
