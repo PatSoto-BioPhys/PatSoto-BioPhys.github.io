@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/biologicalphysics
 venue: "Creighton University - Physics department"
-#date: several times # 2014-01-01
+date: 2022-01-01
 location: "Omaha, NE, USA"
 ---
 
