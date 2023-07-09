@@ -18,7 +18,7 @@ Education
 ======
 *  Postdoctoral training, University of California Santa Barbara, USA.
 *  Ph.D. University of Groningen, The Netherlands
-*  M.S. in Physics, Los Andes University, Bogot &aacute;, Colombia
-*  B.S. in Physics, Los Andes University, Bogot &aacute;, Colombia
+*  M.S. in Physics, Los Andes University, Bogot&aacute;, Colombia
+*  B.S. in Physics, Los Andes University, Bogot&aacute;, Colombia
 
 
