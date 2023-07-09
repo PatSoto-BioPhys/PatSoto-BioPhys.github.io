@@ -8,7 +8,7 @@ venue: "Creighton University - Physics department"
 location: "Omaha, NE, USA"
 ---
 
-The course focuses on learning how to use statistical mechanics and fluid dynamics to explain the behavior of molecules and cells in the nanoscale. I use Phil Nelson's textbook (I tried a couple of times Rob Phillips et al.). The audience of the course is includes biomedical physics majors, physics majors, biological physics minors. 
+The course focuses on learning how to use statistical mechanics and fluid dynamics to explain the behavior of molecules and cells in the nanoscale. I use Phil Nelson's textbook (I tried a couple of times Rob Phillips et al.). The audience of the course includes biomedical physics majors, physics majors, biological physics minors. 
 
 Heading 1
 ======
