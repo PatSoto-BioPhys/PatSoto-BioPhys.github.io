@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/b_general_physics
 venue: "Creighton University - Physics department"
-date: 2022-01-01
+date: 2023-01-01
 location: "Omaha, NE, USA"
 ---
 
