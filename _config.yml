@@ -181,13 +181,18 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  biophysics:
     output: true
     permalink: /:collection/:path/
-  talks:
+  dber:
     output: true
     permalink: /:collection/:path/
-
+  group:
+    output: true
+    permalink: /:collection/:path/
+  service:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
