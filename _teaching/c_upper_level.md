@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Omaha, NE, USA"
 ---
 
-I aim at students owning their physics learning, furthering their agency, and molding their disciplinary identity. The teaching modality I use focuses on an adapted version of Just In Time Teaching, interactive examples, in-class discussions, and staggered projects
+My goal is to catalyze students' active involvement in their physics learning, foster their agency, and shape their disciplinary identity. The teaching modality I use focuses on an adapted version of Just In Time Teaching, interactive examples, in-class discussions, and staggered projects.
 
 Introduction to Biological Physics
 ======
