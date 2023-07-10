@@ -2,7 +2,7 @@
 title: "Upper level courses"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/3upper_level
+permalink: /teaching/c_upper_level
 venue: "Creighton University - Physics department"
 date: 2023-01-01
 location: "Omaha, NE, USA"
