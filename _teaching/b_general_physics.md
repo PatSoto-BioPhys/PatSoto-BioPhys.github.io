@@ -2,7 +2,7 @@
 title: "Introductory (algebra-based) physics for life sciences students"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/B_general_physics
+permalink: /teaching/b_general_physics
 venue: "Creighton University - Physics department"
 date: 2022-01-01
 location: "Omaha, NE, USA"
