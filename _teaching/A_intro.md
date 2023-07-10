@@ -2,7 +2,7 @@
 title: "Teaching philosophy statement"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/1intro
+permalink: /teaching/A_intro
 venue: "Creighton University - Physics department"
 date: 2023-01-01
 location: "Omaha, NE, USA"
