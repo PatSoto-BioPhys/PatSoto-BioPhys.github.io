@@ -9,8 +9,9 @@ location: "Omaha, NE, USA"
 ---
 Key words: Protein conformational dynamics and folding, prion protein, structural bioinformatics.
 
-* Commonalities in the structural dynamics of cellular prion protein in mammals.
+* Role of protein – lipid interactions on prion protein conformational dynamics and misfolding
+  ** Lipid membrane composition and GPI anchoring modulate prion protein - membrane surface interactions 
+  ** Templated misfolding: prion protein – fibril recognition.  
+* Commonalities in the structural dynamics of cellular prion protein in mammals "[doi]" (https://doi.org/10.1080/19336896.2023.2186674)
 * Local effect on structural dynamics of residue substitutions linked to prion protein misfolding.
-* Effect of protein – lipid interactions on prion protein – amyloid fibril recognition.  
-
   
