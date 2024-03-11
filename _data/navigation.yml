@@ -6,10 +6,10 @@ main:
   - title: "Research Group"
     url: /group/
   
-  - title: "Education Research"
-    url: /dber/    
+  #- title: "Education Research"
+  #  url: /dber/    
 
-  - title: "Teaching"
+  - title: "Scholarship of Teaching and Learning"
     url: /teaching/    
     
   - title: "Academic Leadership and Service"
