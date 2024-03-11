@@ -1,5 +1,5 @@
 ---
-title: "Molecular Biophysics Research"
+title: "A structural biophysics model of prion protein folding and pathology"
 collection: biophysics
 type: "Research projects"
 permalink: /biophysics/a_biophysics_intro
