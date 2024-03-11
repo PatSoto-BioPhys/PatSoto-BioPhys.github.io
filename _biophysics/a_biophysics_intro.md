@@ -2,7 +2,7 @@
 title: "Molecular Biophysics Research"
 collection: biophysics
 type: "Research projects"
-permalink: /teaching/a_biophysics_intro
+permalink: /biophysics/a_biophysics_intro
 venue: "Creighton University - Physics department"
 date: 2023-01-01
 location: "Omaha, NE, USA"
