@@ -7,7 +7,7 @@ venue: "Creighton University - Physics department"
 date: 2023-01-01
 location: "Omaha, NE, USA"
 ---
-My leadership and service aim to build together professional communities aligned with academic excellence and DEI values.
+My leadership and service aim to co-create professional communities aligned with academic excellence and DEI values. Engaging with academic scientists is enriching and fulfilling!
 
 Key words: Community builder, cultural awareness, inclusion.
 
