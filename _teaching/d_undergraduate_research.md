@@ -9,5 +9,5 @@ location: "Omaha, NE, USA"
 ---
 
 * I co-authored an article on the effect of gender in undergraduate research ["doi"](https://doi.org/10.1371/journal.pone.0196338).
-* I co-authored an editorial on evidence-based mentoring of research students and faculty in higher education (doi coming up soon).                                                                            
+* I co-authored an editorial on evidence-based mentoring of research students and faculty in biophysics (doi coming up soon).                                                                            
 
