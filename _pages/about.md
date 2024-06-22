@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I strive to cultivate inclusive communities of undergraduate researchers that use structural bioinformatics techniques to investigate protein conformational dynamics and folding in order to unravel molecular mechanisms underlying neurodegenerative proteinopathies in humans. 
+I strive to cultivate inclusive communities of undergraduate researchers who use structural bioinformatics techniques to investigate protein conformational dynamics and folding to unravel molecular mechanisms underlying neurodegenerative proteinopathies in humans. Current main project: Structural biophysics mechanism of templated prion protein misfolding and induced plasma membrane remodeling.
 
 I leverage insights from the sciences of learning to design, implement, and assess educational experiences that advance our understanding of student learning at the intersection of physical and life sciences. I actively engage with communities of educators to collaboratively create enriching educational opportunities for students.
 
