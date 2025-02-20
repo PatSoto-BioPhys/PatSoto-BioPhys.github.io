@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Patricia Soto, PhD"
 title_separator          : "-"
 name                     : &name "Patricia Soto, PhD"
-description              : &description "Associate Professor, Department of Physics, Creighton University"
+#description              : &description "Associate Professor, Department of Physics, Creighton University"
 #url                      : https://PatSoto-BioPhys.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "PatSoto-BioPhys.github.io"
@@ -82,8 +82,10 @@ analytics:
 author:
   name             : "Patricia Soto, PhD"
   avatar           : "CCAS_Soto_Patricia.jpg"
-  bio              : "Associate Professor, Department of Physics, Protein computational biophysicist @BiophysicalSoc, @APS_DBIO, #ResearchWithUndergrads @MERCURY_NSF, and #EducationResearch @BiophysicistJ @AAPTHQ"
-  location         : <a href="https://physics.creighton.edu/">Creighton University</a> 
+  #bio              : "Associate Professor, Department of Physics, "
+  bio              : "Director of Undergraduate Research Opportunities, University of California Merced, Protein computational biophysicist @BiophysicalSoc, @APS_DBIO, #ResearchWithUndergrads @MERCURY_NSF, and #EducationResearch @BiophysicistJ @AAPTHQ"
+  #location         : <a href="https://physics.creighton.edu/">Creighton University</a> 
+  location         : <a href="https://uroc.ucmerced.edu/">UROC University of California Merced</a> 
   employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=patricia+soto"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=uQRaA0EAAAAJ&view_op=list_works&citft=2&email_for_op=patricia.soto.b%40gmail.com&authuser=1&sortby=title"
